@@ -3,7 +3,7 @@
 A decentralized lottery smart contract built in **Solidity** using the **Foundry** development framework.  
 This project lets users participate in a lottery on an Ethereum-compatible blockchain and selects a random winner — showcasing key Web3 concepts like randomness, testing, and deployment.
 
-🧠 How It Works
+### 🧠 How It Works:
 
 This contract accepts lottery entries and picks a random winner using on-chain randomness oracles (e.g., Chainlink VRF). The winner receives the pooled funds while fees/commissions (if any) can be retained per contract logic.
 
